@@ -24,3 +24,20 @@ nav a:hover {
 h1 {
     color: #4762fcd7;
 }
+
+h6 {
+    position: fixed;
+    right: 10px;
+    bottom:10px;
+    color:#111111;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #4398e7;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
