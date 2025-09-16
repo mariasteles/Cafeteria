@@ -1,11 +1,26 @@
-body{
+body {
     background-color: rgb(255, 253, 253)f3;
-    color: #ff7373;
+    color: #111111;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 50px;
 } 
 
-h1{
-    color: #2222226b;
+nav {
+    background-color: #4a83ee;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color: #4762fcd7;
 }
